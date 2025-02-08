@@ -1,0 +1,28 @@
+body {
+  background-color: red;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+a {
+  color: hsl(60, 100%, 50%);
+}
+
+li {
+  color: yellow;
+}
+
+h1 {
+  color: rgb(255, 255, 0);
+  font-style: oblique;
+}
+
+h2 {
+  color: yellow;
+  font-size: 26px;
+}
+
+h3 {
+  color: yellow;
+}
